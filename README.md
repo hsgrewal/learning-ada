@@ -19,7 +19,6 @@ sudo apt install gnat-10
 
 Compile Ada code using:
 ```
-gnatmake -g <FILENAME>.adb 
-
+gnatmake -g <FILENAME>.adb
 ```
 
